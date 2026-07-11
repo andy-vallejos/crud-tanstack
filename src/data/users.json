@@ -1,0 +1,34 @@
+[
+    {
+        "name": "andy",
+        "password": "andy123"
+    },
+    {
+        "name": "juan",
+        "password": "juan456"
+    },
+    {
+        "name": "maria",
+        "password": "maria789"
+    },
+    {
+        "name": "carlos",
+        "password": "carlos321"
+    },
+    {
+        "name": "sofia",
+        "password": "sofia654"
+    },
+    {
+        "name": "lucas",
+        "password": "lucas987"
+    },
+    {
+        "name": "valentina",
+        "password": "vale2026"
+    },
+    {
+        "name": "pedro",
+        "password": "pedro555"
+    }
+]
